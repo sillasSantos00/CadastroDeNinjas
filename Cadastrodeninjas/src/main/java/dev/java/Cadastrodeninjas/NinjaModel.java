@@ -2,7 +2,7 @@ package dev.java.Cadastrodeninjas;
 
 import jakarta.persistence.*;
 
-@Entity // TRANSFORMA UMA CLASSE EM UMA ENTIDADE DO BANCO DE DADOS
+@Entity // TRANSFORMA UMA CLASSE EM UMA ENTIDADE DO BANCO DE DADOS s
 @Table (name = "tb_cadastro")
 public class NinjaModel {
 
