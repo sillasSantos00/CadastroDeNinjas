@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping
-public class Controller {
+public class NinjaController {
 
 
     @GetMapping("/BOASVINDAS") //pega informacoes QUE ESTA ESCRITO NO METODO BOAS VINDAS AQUI EMBAIXO
